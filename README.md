@@ -1,6 +1,6 @@
-(https://github.com/anjalipathak13/anjalipathak13/blob/main/IMG.png)
 # Hi there 👋, Anjali Pathak
 ## Learn ,Code and Develop.
+(https://github.com/anjalipathak13/anjalipathak13/blob/main/IMG.png)
 I'm Anjali Pathak  pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. 
 
 ## Skills:
