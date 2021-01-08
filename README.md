@@ -1,6 +1,6 @@
 # Hi  👋,I'm Anjali Pathak
 ## Learn ,Code and Develop.
-![](https://github.com/anjalipathak13/anjalipathak13/blob/main/IMG.png)
+![](https://github.com/anjalipathak13/anjalipathak13/blob/main/IMG.png|height=100)
 I'm Anjali Pathak  pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. 
 
 ## Skills:
@@ -10,7 +10,7 @@ I'm Anjali Pathak  pursuing Bachelors in Computer science and engineering. I am 
 🔌 IoT
 
  🎯 I’m currently learning IoT and Web Development 
-![](<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">)
+
 
 
 
