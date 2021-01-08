@@ -10,7 +10,7 @@ I'm Anjali Pathak  pursuing Bachelors in Computer science and engineering. I am 
 
  🎯 I’m currently learning IoT and Web Development 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+[<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">]
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anjalipathak13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjali-pathak-6065b91b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/13anjalipathak/)  
 
