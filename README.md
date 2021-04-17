@@ -4,9 +4,8 @@
 I'm Anjali Pathak  pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. 
 
 ## Skills:
-💻 C/C++/Java/Python
-⚛  ReactJS
-📃 HTML/CSS/JS/NodeJS
+💻 C/C++/Java
+📃 HTML/CSS/JS
 🔌 IoT
 
  🎯 I’m currently learning IoT and Web Development 
