@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Anjali Pathak
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Anjali Pathak
 #### Learn ,Code and Develop.
 
 I'm Anjali Pathak  pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. 
@@ -14,7 +14,7 @@ I'm Anjali Pathak  pursuing Bachelors in Computer science and engineering. I am 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
  
-<img align="right" alt="GIF" src="https://github.com/TanyaChetnaVaish/TanyaChetnaVaish/blob/main/assets/0_K2WLMTExLyida7OR.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/TanyaChetnaVaish/TanyaChetnaVaish/blob/main/assets/0_K2WLMTExLyida7OR.gif" width="400" height="320" />
 
 
 
